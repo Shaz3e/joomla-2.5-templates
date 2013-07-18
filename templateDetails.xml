@@ -38,6 +38,7 @@
 		<filename>favicon.ico</filename>
 		<filename>component.php</filename>
 		<filename>error.php</filename>
+		<filename>offline.php</filename>
 	</files>
 
 	<positions>
